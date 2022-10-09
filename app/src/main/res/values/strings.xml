@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Pomodoro App</string>
+    <string name="nav_header_subtitle">lnorris8@myune.edu.au</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_Home">Main</string>
+    <string name="menu_Pomodoro">Pomodoro</string>
+    <string name="menu_Flowtime">Flowtime</string>
+    <string name="menu_Custom">Custom</string>
+    <string name="startButton">Start</string>
+    <string name="addButton">Add</string>
+    <string name="resetButton">Reset</string>
+    <string name="txtMostStudied">Most Studied:</string>
+    <string name="txtLeastStudied">Least Studied:</string>
+    <string name="txtMostSubject">Math</string>
+    <string name="txtLeastSubject">Economics</string>
+
+</resources>
